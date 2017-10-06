@@ -51,7 +51,7 @@ namespace averageCalculation
             }
 
             Console.WriteLine("Goodbye");
-            // Her skriver jeg noget!!!
+            
 
         }
     }
