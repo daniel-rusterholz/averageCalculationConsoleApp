@@ -48,6 +48,8 @@ namespace averageCalculation
                     continue;
                 }
 
+                // Kim vil gerne have en kommentar
+
             }
 
             Console.WriteLine("Goodbye");
